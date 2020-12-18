@@ -2,38 +2,28 @@
 <!DOCTYPE html>
 
 <html>
-  <header>
-this is the header
-  </header>
    <head>
     <meta charset="utf-8">
       <title>This page is about the family</title>
-      <style>
-        body {
-          background-color: rgb(78, 132, 233);
-        }
-        h1 {
-          color: rgb(66, 0, 128);
-        }
-        p {
-          font-size: 22px;
-        }
-     </style>
+   
+        <style>
+            div {
+            border: 1px solid black;
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: lightblue;
+   }
+   </style>
    </head>
-    <main>
-     
-     <article>
-this is the article
-     </article>
-     
-      <body>
+   <body>
         <h1>Get to know us a little</h1>
         <img src="images/family .jpg" alt="My family picture image">
-        &lt;100%&gt;
         
       
 
-        <p>Here is a little background on my family.  My Name is <b>Brian</b>.  
+        Here is a little background on my family.  My Name is Brian.  
         Im married to my wonderful wife Allion.  Together we have five children.
         Henry is our oldest.  He is ten years old.  Next is June.  She is eight.  Next
         is George.  He is five.  Then there's Fred.  He is three.  Finally we have Frances.
@@ -41,29 +31,26 @@ this is the article
         We're blessed to have so much youth in our home.  It really does keep you feeling
         young and ALWAYS moving!  I came from a very small family, but had lots of friends
         with larger families that i always like being around.  I guess you could say i'm living
-        the dream.</p>
+        the dream.
 
         <img src="images/chef.jpg" alt="My chef picture image">
-        &lt;100%&gt;
     
         
         
-        <p>Things i like doing are cooking, running for cardio, planning vacations (with the hope
+        Things i like doing are cooking, running for cardio, planning vacations (with the hope
         we'll get to take one), and playing games with the family.  Cooking has always been hobby till
-        one day it became my livelyhood.  I've done <b>everything</b>.  Hot food, cold food, baking and pastry, 
+        one day it became my livelyhood.  I've done everything.  Hot food, cold food, baking and pastry, 
         small dinners, large multicourse dinners, vasts buffets, and some magic type stuff like ice carvings
-        and fancy dessert sculptures (not really meant to eat).</p>
+        and fancy dessert sculptures (not really meant to eat).
 
 
 
 
         <img src="images/camper.jpg" alt="My camping trailer image">
-        &lt;100%&gt;
 
 
 
         <img src="images/usa.jpg" alt="My map of the united states image">
-        &lt;100%&gt;
 
 
 
@@ -71,20 +58,18 @@ this is the article
 
         
 
-        <p>I'd love to learn more about DIY autocraft so that i might buy an RV or trailer and 
-        visit every state capital in the entire United States with my family.  I've seen some youtube videos of people
-        who have sold their homes and bought a <b>home on wheels</b>.  I dont know if thats for me, but it might 
+        I'd love to learn more about DIY autocraft so that i might buy an RV or trailer and 
+        see the entire United States with my wife and kids.  I've seen some youtube videos of people
+        who have sold their homes and bought a home on wheels.  I dont know if thats for me, but it might 
         be very fun to try for a week or two.  If we owned our own i'd definitely be open to some
-        custom work to make it a great fit for everyone.</p>
+        custom work to make it a great fit for my family.
 
 
     
     
     </body>
-  </main>
+&entity_name;
 
-<footer>
-this is the footer
-</footer>
+</header>
 
 </html>
